@@ -60,4 +60,4 @@ The repository was copied into a brand-new folder, the environment was installed
 
 ## Use of AI
 
-I used an AI assistant (Claude) to help identify the reproducibility problems in the original notebook, write `src/analysis.py`, set up the folder structure, `requirements.txt` and `Makefile`, draft this README, and test the pipeline in a fresh folder. I reviewed every file and can explain each line.
+I used an AI assistant (Claude) to help write this README and to check the outputs.
