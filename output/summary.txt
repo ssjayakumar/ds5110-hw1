@@ -1,0 +1,17 @@
+Coffee Cart Sales Analysis
+Data covers 10 days: 2026-01-05 to 2026-01-14
+
+Average daily revenue: $158.25
+
+Random 50/50 split of the days (seed=42):
+  Group A days: 2026-01-05, 2026-01-08, 2026-01-10, 2026-01-11, 2026-01-12
+  Group A mean daily revenue: $152.75
+  Group B days: 2026-01-06, 2026-01-07, 2026-01-09, 2026-01-13, 2026-01-14
+  Group B mean daily revenue: $163.75
+
+Total revenue by product:
+  Latte: $697.50
+  Espresso: $489.00
+  Drip Coffee: $396.00
+
+Takeaway: Latte brings in the most total revenue over these 10 days.

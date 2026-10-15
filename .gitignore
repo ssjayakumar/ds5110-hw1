@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments (recreate with: pip install -r requirements.txt)
+.venv/
+venv/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS clutter
+.DS_Store
+Thumbs.db
